@@ -2,15 +2,10 @@
  * @name Patryksu Theme
  * @version 1.0
  * @description Random theme
- * @author CapnKitten
- * @website http://github.com/Patryksu
- * @source http://github.com/Patryksu
- * @donate no
- * @invite jzJkA6Z
- * @BDEditor Material Discord
+ * @author Patryksu
+ * @website http://github.com/Patryksuu
+ * @source https://github.com/patryksuu/Patryksu-Theme/blob/main/src/theme.css
 */
-
-@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
 
 :root {
   --accent-hue: 181;
