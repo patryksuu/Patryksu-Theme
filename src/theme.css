@@ -8,21 +8,5 @@
 */
 
 :root {
-  --accent-hue: 181;
-  --accent-saturation: 100%;
-  --accent-lightness: 37%;
-  --accent-text-color: #fff;
-  --avatar-radius: 20%;
-  --undefined: 0;
-  --message-radius: 5px;
-  --message-padding-top: 5px;
-  --message-padding-side: 12px;
-  --undefined: 0;
-  --media-radius: 19px;
-  --undefined: 0;
-  --card-radius: 8px;
-  --card-radius-big: 18px;
-  --popout-radius: 8px;
-  --popout-radius-big: 19px;
+  --background-tertiary: #11ffff;
 }
-/**yeash
